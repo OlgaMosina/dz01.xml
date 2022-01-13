@@ -1,11 +1,11 @@
 <req>
 	<name>ОльгаАндреевнаМосина</name>
 	<age>41</age>
-	<req>
-		<req>
+	
+		
 			<animal>1dog</animal>
-			<req>
-				<req>
+			
+				
 					<desired income>3000$</desered income>
 					<reg>
 
