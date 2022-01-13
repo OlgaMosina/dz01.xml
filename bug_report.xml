@@ -1,0 +1,5 @@
+<req>
+  <title>PHP error appears in window after input SQL request in lield of login</title>
+  <descriprion>If enter SQL request in lield of login and press [Поехали] button PHP error appears in</descriprion>
+  <actual result>Warning: mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\OpenServer\domains\megatask\index.php on line 15</actual result>
+  <expected result>Window with text Error appears</expected result>
